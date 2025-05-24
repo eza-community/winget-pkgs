@@ -1,4 +1,4 @@
-# Automatically updated by the winget bot at 2025/Apr/27
+# Automatically updated by the winget bot at 2025/May/22
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
 
 PackageIdentifier: SoftPerfect.SoftPerfectNetworkScanner
@@ -22,7 +22,7 @@ Installers:
   InstallerType: inno
   Scope: machine
   InstallerUrl: https://www.softperfect.com/download/files/netscan_setup.exe
-  InstallerSha256: 4ECDDA5FA574CC84EDAC5BEE558754A784F7417D47205E1C8D73B3BC37921A8B
+  InstallerSha256: 9A926FDE662C9C4151C0CE5994F03D2959270A9CBEA2E97C14EF03B0FF9D7748
   UpgradeBehavior: install
 ManifestType: installer
 ManifestVersion: 1.10.0
